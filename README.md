@@ -2,7 +2,7 @@
 
 Hello, thank you for taking the time to read through this! This repository contains work I did with SQL and Tableau. Below is an examples of the SQL I've wrote along with a presentation completed in Tableau to accompany the project. Please feel free to reach out at (enrique.ed.ramirez@gmail.com) with any feedback or questions.
 
-## Employee Attrition - **[SQL](https://github.com/EnriqueEdRamirez/SQL-Project/blob/main/Employee_Attrition.sql)**, **[Tableau]()**
+## Employee Attrition - **[SQL](https://github.com/EnriqueEdRamirez/SQL-Project/blob/main/Employee_Attrition.sql)**, **[Tableau](https://public.tableau.com/views/Employee_Attrition_17381014505230/SUMMARY?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 - **Data:** [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - **Purpose:** Gain insight into trends in relationship with employee attrition
 
