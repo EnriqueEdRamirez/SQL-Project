@@ -42,7 +42,7 @@ SELECT Gender, COUNT(EmployeeCount) AS EmployeeCount
 FROM employee_turnover
 GROUP BY Gender;
 --
-	SELECT COUNT(Attrition) AS Employee_Turnover, Age
+    SELECT COUNT(Attrition) AS Employee_Turnover, Age
     FROM employee_turnover
     WHERE Attrition = "Yes"
     GROUP BY Age
